@@ -386,4 +386,7 @@ $RECYCLE.BIN/
 *.jpeg
 *.bmp
 
+# secretkey.json
+src/secrets.json
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,intellij+all,visualstudiocode,java,python,react,redis

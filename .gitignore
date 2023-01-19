@@ -386,6 +386,11 @@ $RECYCLE.BIN/
 *.jpeg
 *.bmp
 
+# Excel Files
+*.csv
+*.xlsx
+*.xls
+
 # secretkey.json
 src/secrets.json
 
